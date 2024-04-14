@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ooi Yeuan Yang</h1>
+<h1 align="center">Hi 👋, I'm ahyang</h1>
 <h3 align="center">A student from University of Southampton Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yang-githubb&label=Profile%20views&color=0e75b6&style=flat" alt="yang-githubb" /> </p>
@@ -9,9 +9,8 @@
 
 - 📫 How to reach me **yang546@hotmail.com**
 
-- ⚡ Fun fact **Dying from coding**
-
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **I am dying from coding**
+  
 <p align="left">
 </p>
 
