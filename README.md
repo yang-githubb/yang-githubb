@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahyang</h1>
-<h3 align="center">A student from University of Southampton Malaysia</h3>
+<h3 align="center">A student from University of Edinburgh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yang-githubb&label=Profile%20views&color=0e75b6&style=flat" alt="yang-githubb" /> </p>
 
