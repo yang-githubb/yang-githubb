@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yang-githubb&label=Profile%20views&color=0e75b6&style=flat" alt="yang-githubb" /> </p>
 
-- 🔭 I’m currently working on **COMP3200 Final Year Project: Data Analytical Recommendation System to Reduce Carbon Footprint**
+- 🔭 I’m currently working on **COURSEWORK**
 
 - 📫 How to reach me **yang546@hotmail.com**
 
