@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yang-githubb&label=Profile%20views&color=0e75b6&style=flat" alt="yang-githubb" /> </p>
 
-- 🔭 I’m currently working on **COURSEWORK**
+- 🔭 I’m currently working on **Leetcode Question :>**
 
 - 📫 How to reach me **yang546@hotmail.com**
 
-- ⚡ Fun fact **I am dying from coding**
+- ⚡ Fun fact **I am from MALAYSIA**
   
 
 <h3 align="left">Languages and Tools:</h3>
